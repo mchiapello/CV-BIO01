@@ -327,19 +327,19 @@ processo di apprendimento, anche per il docente.
 
 `Periodo`
 AA 2020/2021 - 12 ore [In programma]
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Università degli Studi di Torino
-<br>
+
 `Dipartimento`
 Scienze delle Vita e Biologia dei Sistemi
-<br>
+
 `Corso`
 Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
-<br>
+
 `Insegnamento`
 PhDToolbox - Ricerca riproducibile in R 
 
@@ -347,19 +347,19 @@ PhDToolbox - Ricerca riproducibile in R
 
 `Periodo`
 AA 2020/2021 - 8 ore (1 CFU)
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Universita' degli Studi di Torino
-<br>
+
 `Dipartimento`
 Scienze delle Vita e Biologia dei Sistemi
-<br>
+
 `Corso`
 Corso di laurea magistrale in Scienze dei Sistemi naturali
-<br>
+
 `Insegnamento`
 Biologia delle interazioni [[Allegato Z](allegati/AllegatoZ.pdf)]
 
@@ -367,19 +367,19 @@ Biologia delle interazioni [[Allegato Z](allegati/AllegatoZ.pdf)]
 
 `Periodo`
 AA 2020/2021 - 16 ore (2 CFU)
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Universita' degli Studi di Torino
-<br>
+
 `Dipartimento`
 Scienze delle Vita e Biologia dei Sistemi
-<br>
+
 `Corso`
 Corso di laura magistrale in Biologia dell'ambiente
-<br>
+
 `Insegnamento`
 Interazioni tra piante, microrganismi e ambiente [[Allegato AA](allegati/AllegatoAA.pdf)]    
 1 CFU di questo corso e' mutuato con il corso precedente di Biologia delle interazioni
@@ -389,16 +389,16 @@ Interazioni tra piante, microrganismi e ambiente [[Allegato AA](allegati/Allegat
 
 `Periodo`
 AA 2019/2020 - 24 ore (3 CFU)
-<br>
+
 `Qualifica`
 Professore a Contratto
-<br>
+
 `Ente`
 Università degli Studi di Torino
-<br>
+
 `Corso`
 Studenti del master in "Controllo Biologico dei processi e dei prodotti dell'industria"
-<br>
+
 `Insegnamento`
 Data Analysis (https://mchiapello.github.io/Controllo-Biologico-dei-processi-e-dei-prodotti-dell-industria-2019/)
 
@@ -406,19 +406,19 @@ Data Analysis (https://mchiapello.github.io/Controllo-Biologico-dei-processi-e-d
 
 `Periodo`
 Giugno 2020 - 16 ore (Remoto) (2 CFU)
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Università degli Studi di Torino
-<br>
+
 `Dipartimento`
 Scienze delle Vita e Biologia dei Sistemi
-<br>
+
 `Corso`
 Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
-<br>
+
 `Insegnamento`
 PhDToolbox - Ricerca riproducibile in R (https://phd-toolbox-course.github.io/2020_PhD_Toolbox_course/)
 
@@ -426,19 +426,19 @@ PhDToolbox - Ricerca riproducibile in R (https://phd-toolbox-course.github.io/20
 
 `Periodo`
 AA 2017/2018 - 24 ore (3 CFU)
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Università degli Studi di Torino
-<br>
+
 `Dipartimento`
 Scienze delle Vita e Biologia dei Sistemi
-<br>
+
 `Corso`
 Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
-<br>
+
 `Insegnamento`
 PhDToolbox - Ricerca riproducibile in R (https://phd-toolbox-course.github.io/2018_PhD_Toolbox_course/)
 
@@ -446,19 +446,19 @@ PhDToolbox - Ricerca riproducibile in R (https://phd-toolbox-course.github.io/20
 
 `Periodo`
 Gennaio 2017 - 32 ore (4 CFU)
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Università degli Studi di Torino
-<br>
+
 `Dipartimento`
 Scienze delle Vita e Biologia dei Sistemi
-<br>
+
 `Corso`
 Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
-<br>
+
 `Insegnamento`
 PhDToolbox - Ricerca riproducibile in R [https://phd-toolbox-course.github.io/2017_PhD_Toolbox_course/]
 
@@ -466,19 +466,19 @@ PhDToolbox - Ricerca riproducibile in R [https://phd-toolbox-course.github.io/20
 
 `Periodo`
 Luglio 2016 - 24 ore (3 CFU)
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Università degli Studi di Torino
-<br>
+
 `Dipartimento`
 Scienze delle Vita e Biologia dei Sistemi
-<br>
+
 `Corso`
 Corso di Dottorato in Scienze biologiche e Biotecnologie applicate
-<br>
+
 `Insegnamento`
 PhDToolbox - Ricerca riproducibile in R [https://github.com/PhD-Toolbox-course/201606_Rcourse]
 
@@ -486,19 +486,19 @@ PhDToolbox - Ricerca riproducibile in R [https://github.com/PhD-Toolbox-course/2
 
 `Periodo`
 Gennaio 2021 - 16 ore (Remoto) [In programma]
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Consiglio Nazionale delle Ricerche
-<br>
+
 `Dipartimento`
 Istituto per la Protezione Sostenibile delle Piante
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 Corso intermedio di R (https://ipsp-cnr-bioinformatics.github.io/2020-Intermidiate-R-CNR/)
 
@@ -506,19 +506,19 @@ Corso intermedio di R (https://ipsp-cnr-bioinformatics.github.io/2020-Intermidia
 
 `Periodo`
 Novembre 2020 - 8 ore (Remoto)
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Consiglio Nazionale delle Ricerche
-<br>
+
 `Dipartimento`
 Istituto per la Protezione Sostenibile delle Piante
-<br>
+
 `Studenti`
 Ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 Bioinformatics analysis of fungal viromes (https://mchiapello.github.io/202010_VirusDetection/)
 
@@ -526,16 +526,16 @@ Bioinformatics analysis of fungal viromes (https://mchiapello.github.io/202010_V
 
 `Periodo`
 Settembre 2020 - 18 ore (Remoto)
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Nord university in Bodø, Norway
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 Data Carpentry Social Sciences workshop (https://mchiapello.github.io/2020-09-16-nord-online/)
 
@@ -543,16 +543,16 @@ Data Carpentry Social Sciences workshop (https://mchiapello.github.io/2020-09-16
 
 `Periodo`
 Maggio 2019 - 16 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Universite' Catholique de Louvain
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 R Data Carpentry [link]
 
@@ -560,16 +560,16 @@ R Data Carpentry [link]
 
 `Periodo`
 Febbraio 2019 - 16 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Università di Napoli
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 R Data Carpentry [link]
 
@@ -577,16 +577,16 @@ R Data Carpentry [link]
 
 `Periodo`
 Dicembre 2018 - 16 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 University of Debrecen, Hungary
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 R Data Carpentry [link]
 
@@ -594,19 +594,19 @@ R Data Carpentry [link]
 
 `Periodo`
 Novembre 2018 - 4 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Consiglio Nazionale delle Ricerche
-<br>
+
 `Dipartimento`
 Istituto per la Protezione Sostenibile delle Piante
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 Introduzione al data managemnt (OSF.io and protocol.io)
 
@@ -614,19 +614,19 @@ Introduzione al data managemnt (OSF.io and protocol.io)
 
 `Periodo`
 Ottobre 2018 - 4 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 Consiglio Nazionale delle Ricerche
-<br>
+
 `Dipartimento`
 Istituto per la Protezione Sostenibile delle Piante
-<br>
+
 `Studenti`
 Ricercatori
-<br>
+
 `Insegnamento`
 Introduzione a git (version control program)
 
@@ -634,16 +634,16 @@ Introduzione a git (version control program)
 
 `Periodo`
 Settembre 2017 - 16 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 University of Cambridge, United Kingdom
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 
@@ -651,16 +651,16 @@ R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 
 `Periodo`
 Settembre 2017 - 8 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 University of Cambridge, United Kingdom
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 Data analysis and Visualization in R [[Allegato AB](allegati/AllegatoAB.pdf)]
 
@@ -668,16 +668,16 @@ Data analysis and Visualization in R [[Allegato AB](allegati/AllegatoAB.pdf)]
 
 `Periodo`
 Giugno 2017 - 16 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 The Francis Crick Institute, London, United Kingdom
-<br>
+
 `Studenti`
 Ricercatori e PI
-<br>
+
 `Insegnamento`
 R Data Carpentry [https://lgatto.github.io/2017-06-21-Crick/]
 
@@ -685,16 +685,16 @@ R Data Carpentry [https://lgatto.github.io/2017-06-21-Crick/]
 
 `Periodo`
 Gennaio 2017 - 16 ore
-<br>
+
 `Qualifica`
 Docente
-<br>
+
 `Ente`
 University of Cambridge, United Kingdom
-<br>
+
 `Studenti`
 Studenti di dottorato, ricercatori, postDoc e PI
-<br>
+
 `Insegnamento`
 R Data Carpentry [link] [[Allegato AB](allegati/AllegatoAB.pdf)]
 
