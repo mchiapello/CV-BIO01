@@ -819,11 +819,10 @@ Educative.io e' una piattaforma di apprendimento online (https://www.educative.i
 SIB conduce e coordina il campo della bioinformatica in Svizzera (https://www.sib.swiss/).
 
 `Corso`
-- Version Control with Git - Advanced Topics - 8 ore.
+- Version Control with Git - Advanced Topics - 8 ore [[Allegato AG](allegati/AllegatoAG.pdf)].
 
 
-
-## Attività di ricerca
+## Attivita' di ricerca
 
 La mia attivita' di ricerca e' stata  caratterizzata nei primi anni da due
 forze trainanti: l'interazione e l'utilizzo di tecniche -omiche. Durante il
