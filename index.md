@@ -5,7 +5,7 @@ title: Marco Chiapello's CV
 # Marco Chiapello, PhD
 Curriculum Scientifico e Professionale
 
-<div id="webaddress">
+<div id="webaddress" style="display: inline;">
 <strong>Tel.</strong> 348 9150367 | <strong>Email</strong>: chiapello.m@gmail.com<br>
 <strong>Sito</strong>: https://mchiapello.netlify.app/<br>
 <strong>OrcID</strong>: https://orcid.org/0000-0001-7768-3047<br>
@@ -61,7 +61,7 @@ Vincitore di un posto da ricercatore a tempo determinato (1 anno, rinnovato di 9
 `Compiti`
 Analisi bioinformatiche per l'individuazione di nuovi virus presenti nei due patogeni studiati.    
 Sviluppo automatizzato della pipeline di analisi.    
-Analisi di laboratorio: PCR, qRT-PCR, trasformazioni, mantenimento di virus in diverse piante.     
+Analisi di laboratorio: PCR, qRT-PCR, trasformazioni, mantenimento di virus in diverse specie vegetali.     
 
 
 ## Esperienze lavorative
@@ -86,7 +86,7 @@ Virome NGS analysis of pests and pathogens for plant protection (VIROPLANT - H20
 `Compiti`
 - Analisi bioinformatiche per l'individuazione di nuovi virus presenti nei due patogeni studiati.    
 - Sviluppo automatizzato della pipeline di analisi.    
-- Analisi di laboratorio: PCR, qRT-PCR, trasformazioni, mantenimento di virus in diverse piante.     
+- Analisi di laboratorio: PCR, qRT-PCR, trasformazioni, mantenimento di virus in diverse specie vegetali.     
 
 
 ### Dal 10-05-2018<br>Al 09-06-2018
