@@ -211,7 +211,9 @@ Prof. Enrico Martinoia
 - Analisi dei dati di trascrittomica e proteomica    
 - Stesura articolo 
 
-
+<br>
+<br>
+<br>
 ### Dal 01-02-2010<br>Al 28-02-2013
 
 `Qualifica`
@@ -750,10 +752,10 @@ DataCamp e' una piattaforma online per l'apprendimento e lo studio dell'analisi 
 
 `Corsi`
 - Machine Learning with caret in R - self-paced [[Allegato H](allegati/AllegatoH.pdf)]
-- Introduction to Statistical Modeling in R  - self-paced[[Allegato I](allegati/AllegatoI.pdf)]
-- ARIMA modeling in R  - self-paced[[Allegato S](allegati/AllegatoS.pdf)]
-- Introduction to time series analysis  - self-paced[[Allegato T](allegati/AllegatoT.pdf)]
-- Visualizing Geospatial data in R  - self-paced[[Allegato V](allegati/AllegatoV.pdf)]
+- Introduction to Statistical Modeling in R  - self-paced [[Allegato I](allegati/AllegatoI.pdf)]
+- ARIMA modeling in R  - self-paced [[Allegato S](allegati/AllegatoS.pdf)]
+- Introduction to time series analysis  - self-paced [[Allegato T](allegati/AllegatoT.pdf)]
+- Visualizing Geospatial data in R  - self-paced [[Allegato V](allegati/AllegatoV.pdf)]
 
 ### Coursera
 
@@ -1315,6 +1317,8 @@ Esercitazioni di laboratorio per l'insegnamento di Botanica Generale + Istologia
 `AA 2016-2017`
 Esercitazioni di laboratorio per studenti di dottorato sulle metodologie di preparazione del campione, analisi statistica e interpretazione dei dati (University of Cambridge, Cambridge Center for Proteomics)
 
+<br>
+<br>
 ## Competenze trasversali
 
 ### Competenze comunicative e interpersonali 
