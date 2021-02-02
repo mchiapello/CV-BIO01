@@ -1327,6 +1327,8 @@ Esercitazioni di laboratorio per studenti di dottorato sulle metodologie di prep
 - Ho acquisito la capacita' di **comunicare in modo scritto** grazie all'esperienza nella stesura di articoli scientifici, relazioni e progetti in ambito scientifico. 
 - **Ottima capacita' di adattamento** grazie all'esperienze lavorative e sociali in ambito internazionale. Negli ultimi 11 anni ho lavorato in diverse Universita' Europee e ogni volta ho dovuto ricreare relazioni lavorative e sociali. 
 
+<br>
+<br>
 ### Competenze Organizzative e Gestionali
 - **Capacita' di lavorare in autonomia**. Negli ultimi anni ho svolto per diverse aziende (ProteiQ, Evo Pricing e Revelo Datalab) il lavoro di consulente su specifici progetti. Queste esperienze mi hanno permesso di maturare la capacita' di lavorare in autonomia, **rispettare le tempistiche** e **organizzare e gestire il tempo lavorativo**. 
 - **Capacita' di lavorare in gruppo**. Tutte le esperienze lavorative all'interno di gruppi di ricerca, hanno invece contribuito a migliorare  la mia capacita' di lavorare in gruppo: collaborazione, empatia, supporto, confronto e disponibilita' sono le parole con cui descrivo la mia presenza all'interno di un gruppo di lavoro.
